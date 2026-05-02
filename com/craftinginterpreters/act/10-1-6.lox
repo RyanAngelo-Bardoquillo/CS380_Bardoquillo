@@ -1,5 +1,5 @@
 fun greet(name) {
-    print ("Hello, " + name + "!");
+    print "Hello, " + name + "!";
 }
 
 fun thrice(i) {
@@ -9,4 +9,4 @@ fun thrice(i) {
 }
 
 greet("world");
-thrice(1 + 2);
+thrice(3);
